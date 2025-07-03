@@ -5,7 +5,7 @@
 Sou um desenvolvedor Android em formação 📱, atualmente aprendendo Kotlin ☕ e todos os fundamentos do desenvolvimento mobile.  
 Estudo desde a criação de interfaces com XML até a construção de telas modernas com *Jetpack Compose, além de explorar os principais componentes do **Jetpack, como **Navigation, **ViewModel* e *LiveData*.
 
-Sou estudante de *Análise e Desenvolvimento de Sistemas* 🎓 e estou construindo meu portfólio com projetos práticos, como um leitor de receitas por voz (*Chefia*) e um app de agendamento para barbearias. Também estou desenvolvendo habilidades com Android Studio, Git, boas práticas de código e organização de projetos com arquitetura limpa.
+Sou estudante de *Análise e Desenvolvimento de Sistemas* 🎓 e estou construindo meu portfólio com projetos práticos.Também estou desenvolvendo habilidades com Android Studio, Git, boas práticas de código e organização de projetos com arquitetura limpa.
 
 ---
 
