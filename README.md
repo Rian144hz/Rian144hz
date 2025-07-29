@@ -30,6 +30,9 @@ Sou estudante de *Análise e Desenvolvimento de Sistemas* 🎓 e estou construin
   <a href="https://www.android.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" width="36" height="36" alt="Android" />
   </a>
+  <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" width="36" height="36" alt="IntelliJ IDEA" />
+</a>
 </p>
 
 ---
