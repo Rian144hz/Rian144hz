@@ -11,7 +11,7 @@ Sou estudante de *Análise e Desenvolvimento de Sistemas* 🎓 e estou construin
 
 - 🌍 Localização: Glória - BA, Brasil  
 - ✉ Contato: [rianmatheus669@gmail.com](mailto:rianmatheus669@gmail.com)  
-- 🧠 Aprendendo: Kotlin
+- 🧠 Aprendendo: Kotlin e Java
 
 ---
 
