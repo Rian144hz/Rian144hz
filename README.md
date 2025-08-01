@@ -39,11 +39,16 @@ Sou estudante de *Análise e Desenvolvimento de Sistemas* 🎓 e estou construin
 
 ### 🌐 Redes Sociais
 
+### 🌐 Redes Sociais
+
 <p align="left">
   <a href="https://github.com/matheusrian" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" />
   </a>
   <a href="https://www.instagram.com/rian144hz" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" alt="Instagram" />
+  </a>
+  <a href="https://www.linkedin.com/in/matheus-souza7" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" />
   </a>
 </p>
