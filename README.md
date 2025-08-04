@@ -53,5 +53,8 @@ Sou estudante de *Análise e Desenvolvimento de Sistemas* 🎓 e estou construin
   </a>
 </p>
 
+  <img src="https://raw.githubusercontent.com/Rian144hz/Rian144hz/output/snake.svg" alt="Snake animation" />
+
+###
 
 
