@@ -8,6 +8,7 @@ Estudo desde a criação de interfaces com XML até a construção de telas mode
 Sou estudante de *Análise e Desenvolvimento de Sistemas* 🎓 e estou construindo meu portfólio com projetos práticos. Também estou desenvolvendo habilidades com Android Studio, Git, boas práticas de código e organização de projetos com arquitetura limpa.
 
 ---
+![snake gif](https://github.com/Rian144hz/Rian144hz/blob/output/github-contribution-grid-snake.svg)
 
 - 🌍 Localização: Glória - BA, Brasil  
 - ✉ Contato: [rianmatheus669@gmail.com](mailto:rianmatheus669@gmail.com)  
