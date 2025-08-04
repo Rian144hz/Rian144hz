@@ -52,5 +52,7 @@ Sou estudante de *Análise e Desenvolvimento de Sistemas* 🎓 e estou construin
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" />
   </a>
 </p>
+![snake gif](https://github.com/Rian144hz/Rian144hz/blob/output/github-contribution-grid-snake.svg)
+
 
 
