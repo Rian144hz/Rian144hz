@@ -8,6 +8,7 @@ Estou construindo meu portfólio com projetos práticos, aplicando boas prática
 📂 Projetos antigos em Android foram aprendizados iniciais e marcam minha evolução.
 
 🌍 Localização: Glória - BA, Brasil
+
 ✉ Contato: rianmatheus669@gmail.com
 
 🛠 Habilidades Técnicas
