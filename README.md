@@ -33,7 +33,6 @@ Sou estudante de Análise e Desenvolvimento de Sistemas 🎓 e estou construindo
 
 ---
 
-### 🌐 Redes Sociais
 
 ### 🌐 Redes Sociais
 
