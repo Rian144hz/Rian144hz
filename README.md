@@ -1,39 +1,34 @@
-# 👋 Oi, meu nome é Matheus Rian
+👋 Oi, meu nome é Matheus Rian
+Estudante de ADS | Desenvolvedor Backend Júnior 🚀
+Sou um desenvolvedor backend em formação 💻, atualmente aprendendo Java ☕ e explorando os fundamentos de desenvolvimento de sistemas, APIs e Spring Boot.
+Estudo desde a modelagem de dados e integração com bancos de dados relacionais até a construção de APIs REST escaláveis e seguras, além de aplicar boas práticas de código e arquitetura limpa.
 
-### Estudante de ADS | Desenvolvedor Android Júnior 🚀
+Sou estudante de Análise e Desenvolvimento de Sistemas 🎓 e estou construindo meu portfólio com projetos práticos. Também estou desenvolvendo habilidades com Git, testes, versionamento de código e documentação de APIs.
 
-Sou um desenvolvedor Android em formação 📱, atualmente aprendendo Kotlin ☕ e todos os fundamentos do desenvolvimento mobile.  
-Estudo desde a criação de interfaces com XML até a construção de telas modernas com *Jetpack Compose*, além de explorar os principais componentes do **Jetpack**, como **Navigation**, **ViewModel** e *LiveData*.
+🌍 Localização: Glória - BA, Brasil
 
-Sou estudante de *Análise e Desenvolvimento de Sistemas* 🎓 e estou construindo meu portfólio com projetos práticos. Também estou desenvolvendo habilidades com Android Studio, Git, boas práticas de código e organização de projetos com arquitetura limpa.
+✉ Contato: rianmatheus669@gmail.com
 
----
-
-- 🌍 Localização: Glória - BA, Brasil  
-- ✉ Contato: [rianmatheus669@gmail.com](mailto:rianmatheus669@gmail.com)  
-- 🧠 Aprendendo: Kotlin e Java
-
+🧠 Aprendendo: Java, Spring Boot e bancos de dados relacionais
 ---
 
 ### 🛠 Habilidades
 
 <p align="left">
-  <a href="https://kotlinlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/kotlin-colored.svg" width="36" height="36" alt="Kotlin" />
-  </a>
   <a href="https://www.java.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="36" height="36" alt="Java" />
   </a>
-  <a href="https://developer.android.com/studio" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/androidstudio/androidstudio-original.svg" width="36" height="36" alt="Android Studio" />
+  <a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="36" height="36" alt="Spring Boot" />
   </a>
-  <a href="https://www.android.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" width="36" height="36" alt="Android" />
+  <a href="https://www.postman.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="36" height="36" alt="Postman" />
   </a>
-  <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" width="36" height="36" alt="IntelliJ IDEA" />
-</a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="36" height="36" alt="SQL" />
+  </a>
 </p>
+
 
 ---
 
