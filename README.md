@@ -1,4 +1,4 @@
-👋 Oi, meu nome é Matheus Rian
+# 👋 OLÁ, MEU NOME É MATHEUS RIAN
 Estudante de ADS | Desenvolvedor Backend Júnior 🚀
 Sou um desenvolvedor backend em formação 💻, atualmente aprendendo Java ☕ e explorando os fundamentos de desenvolvimento de sistemas, APIs e Spring Boot.
 Estudo desde a modelagem de dados e integração com bancos de dados relacionais até a construção de APIs REST escaláveis e seguras, além de aplicar boas práticas de código e arquitetura limpa.
