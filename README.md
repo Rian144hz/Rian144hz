@@ -1,14 +1,14 @@
 👋 OLÁ, MEU NOME É MATHEUS RIAN
 
-Estudante de ADS | Desenvolvedor Backend Júnior 🚀
+ESTUDANTE DE ADS | DESENVOLVEDOR BACKEND JÚNIOR 🚀
 
-Sou um desenvolvedor backend em formação 💻, atualmente aprendendo Java ☕ e explorando os fundamentos de desenvolvimento de sistemas, APIs e Spring Boot.
+SOU UM DESENVOLVEDOR BACKEND EM FORMAÇÃO 💻, ATUALMENTE APRENDENDO JAVA ☕ E EXPLORANDO OS FUNDAMENTOS DE DESENVOLVIMENTO DE SISTEMAS, APIS E SPRING BOOT.
 
-Estudo desde a modelagem de dados e integração com bancos de dados relacionais até a construção de APIs REST escaláveis e seguras, além de aplicar boas práticas de código e arquitetura limpa.
+ESTUDO DESDE A MODELAGEM DE DADOS E INTEGRAÇÃO COM BANCOS DE DADOS RELACIONAIS ATÉ A CONSTRUÇÃO DE APIS REST ESCALÁVEIS E SEGURAS, ALÉM DE APLICAR BOAS PRÁTICAS DE CÓDIGO E ARQUITETURA LIMPA.
 
 📂 Projetos antigos em Android foram aprendizados iniciais e marcam minha evolução.
 
-Sou estudante de Análise e Desenvolvimento de Sistemas 🎓 e estou construindo meu portfólio com projetos práticos. Também estou desenvolvendo habilidades com Git, testes, versionamento de código e documentação de APIs.
+SOU ESTUDANTE DE ANÁLISE E DESENVOLVIMENTO DE SISTEMAS 🎓 E ESTOU CONSTRUINDO MEU PORTFÓLIO COM PROJETOS PRÁTICOS. TAMBÉM ESTOU DESENVOLVENDO HABILIDADES COM GIT, TESTES, VERSIONAMENTO DE CÓDIGO E DOCUMENTAÇÃO DE APIS.
 
 🌍 Localização: Glória - BA, Brasil
 ✉ Contato: rianmatheus669@gmail.com
