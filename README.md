@@ -1,11 +1,10 @@
 👋 Olá, meu nome é MATHEUS RIAN
 
-Estudante de ciência da computação | Desenvolvedor Backend Júnior 🚀
+Estudante de Ciência da Computação no IFBA, com 19 anos.
 
-Sou desenvolvedor backend em formação 💻, aprendendo Java, Spring Boot e explorando os fundamentos de desenvolvimento de sistemas, APIs e bancos de dados relacionais.
-Estou construindo meu portfólio com projetos práticos, aplicando boas práticas de código, versionamento com Git, testes e documentação de APIs.
+Tenho interesse e busco me especializar em Internet das Coisas (IoT), Inteligência Artificial (IA) e Sistemas Embarcados, áreas que me fascinam e que pretendo aprofundar.
 
-📂 Projetos antigos em Android foram aprendizados iniciais e marcam minha evolução.
+Estou construindo meu portfólio com projetos práticos, aplicando boas práticas de código, versionamento com Git, testes e documentação de APIs. Meus primeiros projetos em Android refletem minha evolução e aprendizado constante.
 
 🌍 Localização: Glória - BA, Brasil
 
