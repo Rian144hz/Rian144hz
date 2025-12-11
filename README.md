@@ -12,7 +12,24 @@ Estou construindo meu portfólio com projetos práticos, aplicando boas prática
 
 🛠 Habilidades Técnicas
 
-<p align="left"> <a href="https://www.java.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="36" height="36" alt="Java" /></a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg" width="36" height="36" alt="Arduino" /></a> </p>
+<p align="left">
+  <!-- Linguagens -->
+  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Programming_Language.svg" width="36" height="36" alt="C" />
+  </a>
+  <a href="https://www.java.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="36" height="36" alt="Java" />
+  </a>
+
+  <!-- IoT / Embarcados -->
+  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg" width="36" height="36" alt="Arduino" />
+  </a>
+  <a href="https://www.iotforall.com/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/5/5a/Iot-logo.svg" width="36" height="36" alt="IoT" />
+  </a>
+</p>
+
 
 🌐 Redes Sociais
 
