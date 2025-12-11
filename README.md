@@ -23,12 +23,7 @@ Estou construindo meu portfólio com projetos práticos, aplicando boas prática
 
   <!-- IoT / Embarcados -->
   <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg" width="36" height="36" alt="Arduino" />
-  </a>
-  <a href="https://www.iotforall.com/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/5/5a/Iot-logo.svg" width="36" height="36" alt="IoT" />
-  </a>
-</p>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg" width="36" height="36" alt="Ardu
 
 
 🌐 Redes Sociais
