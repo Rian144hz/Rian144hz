@@ -1,6 +1,6 @@
 👋 Olá, meu nome é MATHEUS RIAN
 
-Estudante de Ciência da Computação
+Estudante de Ciências da Computação
 
 Tenho interesse e busco me especializar em Internet das Coisas (IoT), Inteligência Artificial (IA) e Sistemas Embarcados, áreas que me fascinam e que pretendo aprofundar.
 
@@ -13,17 +13,22 @@ Estou construindo meu portfólio com projetos práticos, aplicando boas prática
 🛠 Habilidades Técnicas
 
 <p align="left">
-  <!-- Linguagens -->
+  <!-- C -->
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Programming_Language.svg" width="36" height="36" alt="C" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="36" height="36" alt="C" />
   </a>
+  
+  <!-- Java -->
   <a href="https://www.java.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="36" height="36" alt="Java" />
   </a>
-
-  <!-- IoT / Embarcados -->
+  
+  <!-- Arduino -->
   <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg" width="36" height="36" alt="Ardu
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg" width="36" height="36" alt="Arduino" />
+  </a>
+</p>
+
 
 
 🌐 Redes Sociais
