@@ -1,6 +1,6 @@
 👋 Olá, meu nome é MATHEUS RIAN
 
-Estudante de Ciências da Computação
+Estudante de Ciência da Computação
 
 Tenho interesse e busco me especializar em Internet das Coisas (IoT), Inteligência Artificial (IA) e Sistemas Embarcados, áreas que me fascinam e que pretendo aprofundar.
 
