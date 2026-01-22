@@ -3,6 +3,7 @@ Hi, my name is Rian, I’m 19 years old, and I’m a first-semester Computer Sci
 I’m currently building my portfolio through practical projects, applying good coding practices, Git version control, and documentation. My goal is to grow as an Embedded Systems Developer, continuously improving my skills and working with efficient and reliable systems.
 
 📍 Location: Glória, Bahia, Brazil
+
 📫 Contact: rianmatheus669@gmail.com
 
 🛠 Habilidades Técnicas
