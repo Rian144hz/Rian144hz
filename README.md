@@ -1,15 +1,16 @@
-<h1 align="center">Hey! I’m Rian — welcome to my code space 🚀</h1>
+👋 Olá, meu nome é MATHEUS RIAN
 
+Estudante de Ciência da Computação
 
-I’m a first-semester Computer Science student with a strong interest in Embedded Systems and low-level programming. I enjoy understanding how software interacts directly with hardware and how efficient code can make systems faster, smaller, and more reliable.
+Tenho interesse e busco me especializar em Internet das Coisas (IoT), Inteligência Artificial (IA) e Sistemas Embarcados, áreas que me fascinam e que pretendo aprofundar.
 
-Currently, I’m focused on learning and practicing C programming, exploring concepts such as memory management, pointers, and hardware-oriented logic. I’m also studying microcontrollers, especially Arduino and ESP32, working with GPIOs, timers, and basic communication between software and hardware.
+Estou construindo meu portfólio com projetos práticos, aplicando boas práticas de código, versionamento com Git, testes e documentação de APIs. Meus primeiros projetos em Android refletem minha evolução e aprendizado constante.
 
-I use Linux as my main development environment and continuously improve my workflow with tools like Git and GitHub, aiming to build clean, organized, and well-documented projects. My goal is to grow as an Embedded Systems Developer, deepening my knowledge in areas such as real-time systems, communication protocols, and embedded Linux in the future.
+🌍 Localização: Glória - BA, Brasil
 
-I’m motivated by learning, experimenting, and building things from the ground up, always looking to improve my skills and collaborate on projects related to embedded systems and low-level development.
+✉ Contato: rianmatheus669@gmail.com
 
-###
+🛠 Habilidades Técnicas
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="60" alt="c logo"  />
@@ -27,29 +28,7 @@ I’m motivated by learning, experimenting, and building things from the ground 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="60" alt="arduino logo"  />
 </div>
 
-###
 
-<div align="center">
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitch logo"  />
-</div>
+🌐 Redes Sociais
 
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RIAN144HZ&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=RIAN144HZ&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RIAN144HZ&radius=16&theme=dracula&area=true&order=5" height="300" alt="activity-graph graph"  />
-</div>
-
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RIAN144HZ/RIAN144HZ/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RIAN144HZ/RIAN144HZ/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/RIAN144HZ/RIAN144HZ/output/pacman-contribution-graph.svg">
-</picture>
-
-###
+<p align="left"> <a href="https://github.com/matheusrian" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" /></a> <a href="https://www.instagram.com/rian144hz" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" alt="Instagram" /></a> <a href="https://www.linkedin.com/in/matheus-souza7" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" /></a> </p> <img src="https://raw.githubusercontent.com/Rian144hz/Rian144hz/output/snake.svg" alt="Snake animation" />
