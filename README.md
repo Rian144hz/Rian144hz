@@ -1,14 +1,9 @@
-👋 Olá, meu nome é MATHEUS RIAN
+Hi, my name is Rian, I’m 19 years old, and I’m a first-semester Computer Science student focused on Embedded Systems. I’m passionate about low-level programming and understanding how software interacts directly with hardware.
 
-Estudante de Ciência da Computação
+I’m currently building my portfolio through practical projects, applying good coding practices, Git version control, and documentation. My goal is to grow as an Embedded Systems Developer, continuously improving my skills and working with efficient and reliable systems.
 
-Tenho interesse e busco me especializar em Internet das Coisas (IoT), Inteligência Artificial (IA) e Sistemas Embarcados, áreas que me fascinam e que pretendo aprofundar.
-
-Estou construindo meu portfólio com projetos práticos, aplicando boas práticas de código, versionamento com Git, testes e documentação de APIs. Meus primeiros projetos em Android refletem minha evolução e aprendizado constante.
-
-🌍 Localização: Glória - BA, Brasil
-
-✉ Contato: rianmatheus669@gmail.com
+📍 Location: Glória, Bahia, Brazil
+📫 Contact: rianmatheus669@gmail.com
 
 🛠 Habilidades Técnicas
 
