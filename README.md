@@ -1,36 +1,14 @@
-👋 Olá, meu nome é MATHEUS RIAN
+<h1 align="center">Hi 👋, I'm rian</h1>
+<h3 align="center">Computer Science student focused on real-world projects.</h3>
 
-Estudante de Ciência da Computação
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rian144hz&label=Profile%20views&color=0e75b6&style=flat" alt="rian144hz" /> </p>
 
-Tenho interesse e busco me especializar em Internet das Coisas (IoT), Inteligência Artificial (IA) e Sistemas Embarcados, áreas que me fascinam e que pretendo aprofundar.
-
-Estou construindo meu portfólio com projetos práticos, aplicando boas práticas de código, versionamento com Git, testes e documentação de APIs. Meus primeiros projetos em Android refletem minha evolução e aprendizado constante.
-
-🌍 Localização: Glória - BA, Brasil
-
-✉ Contato: rianmatheus669@gmail.com
-
-🛠 Habilidades Técnicas
-
+<h3 align="left">Connect with me:</h3>
 <p align="left">
-  <!-- C -->
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="36" height="36" alt="C" />
-  </a>
-  
-  <!-- Java -->
-  <a href="https://www.java.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="36" height="36" alt="Java" />
-  </a>
-  
-  <!-- Arduino -->
-  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg" width="36" height="36" alt="Arduino" />
-  </a>
+<a href="https://instagram.com/rian144hz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rian144hz" height="30" width="40" /></a>
 </p>
 
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> </p>
 
-
-🌐 Redes Sociais
-
-<p align="left"> <a href="https://github.com/matheusrian" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" /></a> <a href="https://www.instagram.com/rian144hz" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" alt="Instagram" /></a> <a href="https://www.linkedin.com/in/matheus-souza7" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" /></a> </p> <img src="https://raw.githubusercontent.com/Rian144hz/Rian144hz/output/snake.svg" alt="Snake animation" />
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rian144hz&show_icons=true&locale=en&layout=compact" alt="rian144hz" /></p>
