@@ -1,5 +1,14 @@
 <h1 align="center">Hey! I’m Rian — welcome to my code space 🚀</h1>
 
+
+I’m a first-semester Computer Science student with a strong interest in Embedded Systems and low-level programming. I enjoy understanding how software interacts directly with hardware and how efficient code can make systems faster, smaller, and more reliable.
+
+Currently, I’m focused on learning and practicing C programming, exploring concepts such as memory management, pointers, and hardware-oriented logic. I’m also studying microcontrollers, especially Arduino and ESP32, working with GPIOs, timers, and basic communication between software and hardware.
+
+I use Linux as my main development environment and continuously improve my workflow with tools like Git and GitHub, aiming to build clean, organized, and well-documented projects. My goal is to grow as an Embedded Systems Developer, deepening my knowledge in areas such as real-time systems, communication protocols, and embedded Linux in the future.
+
+I’m motivated by learning, experimenting, and building things from the ground up, always looking to improve my skills and collaborate on projects related to embedded systems and low-level development.
+
 ###
 
 <div align="center">
