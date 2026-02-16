@@ -47,4 +47,5 @@ My goal is to grow as an **Embedded Systems Developer**, working with efficient,
 
 📫 **Contact:** rianmatheus669@gmail.com
 
+![GitHub Banner](https://user-images.githubusercontent.com/58959408/232639433-cb0aea21-66f0-4508-a771-85e2089c5a87.gif)
 <img src="https://raw.githubusercontent.com/Rian144hz/Rian144hz/output/snake.svg" alt="Snake animation" />
