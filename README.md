@@ -23,7 +23,7 @@ My goal is to grow as an **Embedded Systems Developer**, working with efficient,
 
 ## 🛠️ Tech Stack
 
-[![Skills](https://skillicons.dev/icons?i=ubuntu,linux,idea,java,julia,c,arduino)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=ubuntu,linux,idea,git,java,julia,c,arduino)](https://skillicons.dev)
 
 ---
 
