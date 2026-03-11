@@ -1,6 +1,6 @@
 # Hi 👋 I'm Rian
 
-🎓 First-semester Computer Science student  
+🎓 second-semester Computer Science student  
 🔧 Focused on Embedded Systems  
 📍 Glória, Bahia, Brazil  
 
@@ -8,7 +8,7 @@
 
 ## 🚀 About Me
 
-I'm 19 years old and passionate about **low-level programming** and understanding how software interacts directly with hardware.
+I'm 20 years old and passionate about **low-level programming** and understanding how software interacts directly with hardware.
 
 I’m currently building my portfolio through practical projects, applying:
 
