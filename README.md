@@ -23,10 +23,10 @@ My goal is to grow as an **Embedded Systems Developer**, working with efficient,
 
 ## 🛠️ Programming Lenguages
 
-[![Skills](https://skillicons.dev/icons?i=java,julia,c)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=java,julia,c,sql)](https://skillicons.dev)
 
 ---
-## 🖥️ Wokspace
+## 🖥️ Development Tools and Environment
 
 [![Skills](https://skillicons.dev/icons?i=ubuntu,linux,idea,git,arduino)](https://skillicons.dev)
 
