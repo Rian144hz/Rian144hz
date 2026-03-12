@@ -23,7 +23,7 @@ My goal is to grow as an **Embedded Systems Developer**, working with efficient,
 
 ## 🛠️ Programming Lenguages
 
-[![Skills](https://skillicons.dev/icons?i=java,julia,c,sql)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=java,julia,c,mysql)](https://skillicons.dev)
 
 ---
 ## 🖥️ Development Tools and Environment
