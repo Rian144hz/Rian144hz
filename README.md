@@ -1,23 +1,19 @@
 # Hi 👋 I'm Matheus Rian
 
-🎓 **Computer Science Student** | IFBA Campus Paulo Afonso
-🚀 **Full Stack Developer** (Focusing on Java & Mobile)
-📍 Glória, Bahia, Brazil
+🎓 **Computer Science Student** | IFBA Campus Paulo Afonso  
+🚀 **Focused on Full-Stack Development** (Java & Flutter)  
+📍 Glória, Bahia, Brazil  
 
 ---
 
-## 🚀 About Me
+## 🎯 My Focus
 
-I'm a 20-year-old developer passionate about building systems that solve real-world problems. Currently, I'm diving deep into the integration between mobile applications and robust backends.
+* **Backend:** Construção de APIs com **Java & Spring Boot**.
+* **Mobile:** Desenvolvimento de interfaces com **Flutter**.
+* **Database:** Persistência de dados com **PostgreSQL**.
+* **System:** Operação em ambiente **Linux (Ubuntu)**.
 
-My current focus includes:
-- **Backend:** Java with Spring Boot & PostgreSQL.
-- **Mobile:** Flutter (Dart) for intuitive cross-platform interfaces.
-- **Environment:** Dedicated Linux (Ubuntu) user and Bash enthusiast.
-- **Core Interests:** Understanding the flow of data from the UI down to the database.
-
----
----
+My goal is to understand how data travels through the application to the database, creating real solutions like **[busTrackerPA](https://github.com/Rian144hz/busTrackerPA/tree/main)**.
 
 ## 🛠️ Programming Lenguages
 
