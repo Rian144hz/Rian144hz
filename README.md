@@ -33,7 +33,7 @@ My goal is to understand how data travels through the application to the databas
 
 ## 🖥️ Development Tools and Environment
 
-[![Skills](https://skillicons.dev/icons?i=ubuntu,linux,idea,vscode,git)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=ubuntu,linux,idea,jUnit,vscode,git)](https://skillicons.dev)
 
 ![GitHub Banner](https://user-images.githubusercontent.com/58959408/232639433-cb0aea21-66f0-4508-a771-85e2089c5a87.gif)
 <img src="https://raw.githubusercontent.com/Rian144hz/Rian144hz/output/snake.svg" alt="Snake animation" />
