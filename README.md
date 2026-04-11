@@ -17,7 +17,7 @@ My goal is to understand how data travels through the application to the databas
 
 ## 🛠️ Programming Lenguages
 
-[![Skills](https://skillicons.dev/icons?i=java,c,dart)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=java,dart)](https://skillicons.dev)
 
 ---
 ## ⚙️ Frameworks
@@ -27,7 +27,7 @@ My goal is to understand how data travels through the application to the databas
 ---
 ## 🛡️ Database
 
-[![Skills](https://skillicons.dev/icons?i=mysql,postgres)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=postgres)](https://skillicons.dev)
 
 ---
 
