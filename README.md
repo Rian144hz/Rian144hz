@@ -23,13 +23,13 @@
 
 Computer Science student at **IFBA Campus Paulo Afonso**, based in Glória, Bahia, Brazil.
 
-My goal is to understand how data travels through the full application stack — from mobile UI all the way to the database — building real solutions like **[busTrackerPA](https://github.com/Rian144hz/busTrackerPA/tree/main)**.
+My goal is to understand how data travels through the full application stack — from mobile UI all the way to the database — building real solutions like **[busTrackerPA](https://github.com/Rian144hz/busTrackerPA)**.
 
 ---
 
 ## 🎯 Focus Areas
 
-| | Area | Stack |
+| Icon | Area | Stack |
 |---|---|---|
 | ⚙️ | **Backend** | Java & Spring Boot — building REST APIs |
 | 📱 | **Mobile** | Flutter — crafting cross-platform interfaces |
@@ -41,26 +41,22 @@ My goal is to understand how data travels through the full application stack —
 ## 🛠️ Tech Stack
 
 **Languages**
-
 [![Skills](https://skillicons.dev/icons?i=java,dart)](https://skillicons.dev)
 
 **Frameworks**
-
-[![Skills](https://skillicons.dev/icons?i=spring)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=spring,flutter)](https://skillicons.dev)
 
 **Database**
-
 [![Skills](https://skillicons.dev/icons?i=postgres)](https://skillicons.dev)
 
 **Tools & Environment**
-
 [![Skills](https://skillicons.dev/icons?i=ubuntu,linux,idea,vscode,git)](https://skillicons.dev)
 
 ---
 
 ## 🚀 Featured Project
 
-### [busTrackerPA](https://github.com/Rian144hz/busTrackerPA/tree/main)
+### [busTrackerPA](https://github.com/Rian144hz/busTrackerPA)
 > A real-world app that tracks bus routes in Paulo Afonso.  
 > Built to understand how data travels through the full stack — from the mobile client to the API and into the database.
 
@@ -73,21 +69,26 @@ My goal is to understand how data travels through the full application stack —
 <div align="center">
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rian144hz&show_icons=true&theme=tokyonight&hide_border=true)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rian144hz&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
 
 ---
 
+<div align="center">
+
 ![GitHub Banner](https://user-images.githubusercontent.com/58959408/232639433-cb0aea21-66f0-4508-a771-85e2089c5a87.gif)
 
 ![Snake animation](https://raw.githubusercontent.com/Rian144hz/Rian144hz/output/snake.svg)
+
+</div>
 
 ---
 
 ## 📫 Contact
 
-📧 rianmatheus669@gmail.com
+📧 [rianmatheus669@gmail.com](mailto:rianmatheus669@gmail.com)
 
 ## 🌐 Connect with Me
 
