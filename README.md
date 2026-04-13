@@ -72,8 +72,8 @@ My goal is to understand how data travels through the full application stack —
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rian144hz&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rian144hz&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rian144hz&show_icons=true&theme=tokyonight&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rian144hz&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
 
@@ -92,7 +92,7 @@ My goal is to understand how data travels through the full application stack —
 ## 🌐 Connect with Me
 
 <p align="left">
-<a href="https://github.com/matheusrian" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" /></a>
+<a href="https://github.com/Rian144hz" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" /></a>
 <a href="https://www.linkedin.com/in/matheus-souza7" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" /></a>
 <a href="https://www.instagram.com/rian144hz" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" alt="Instagram" /></a>
 </p>
