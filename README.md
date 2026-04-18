@@ -2,6 +2,8 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=378ADD&center=true&vCenter=true&width=500&lines=Hi+there%2C+I'm+Matheus+Rian+%F0%9F%91%8B;Computer+Science+Student;Java+%7C+Flutter+%7C+Spring+Boot+%7C+PostgreSQL)](https://git.io/typing-svg)
 
+<img height="140em" align="right" src="https://user-images.githubusercontent.com/59374587/153518639-7a26f075-9621-4c47-bae8-e46c957d09a7.png"/>
+
 </div>
 
 ---
@@ -25,7 +27,7 @@ Computer Science student at **IFBA Campus Paulo Afonso**, based in Glória, Bahi
 
 My goal is to understand how data travels through the full application stack — from mobile UI all the way to the database — building real solutions like **[busTrackerPA](https://github.com/Rian144hz/busTrackerPA)**.
 
-<img height="140em" align="right" src="https://user-images.githubusercontent.com/59374587/153518639-7a26f075-9621-4c47-bae8-e46c957d09a7.png"/>
+
 
 ---
 
