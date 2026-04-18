@@ -25,6 +25,8 @@ Computer Science student at **IFBA Campus Paulo Afonso**, based in Glória, Bahi
 
 My goal is to understand how data travels through the full application stack — from mobile UI all the way to the database — building real solutions like **[busTrackerPA](https://github.com/Rian144hz/busTrackerPA)**.
 
+<img height="140em" align="right" src="https://user-images.githubusercontent.com/59374587/153518639-7a26f075-9621-4c47-bae8-e46c957d09a7.png"/>
+
 ---
 
 ## 🎯 Focus Areas
