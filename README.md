@@ -1,8 +1,7 @@
 <div align="center">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=378ADD&center=true&vCenter=true&width=500&lines=Hi+there%2C+I'm+Matheus+Rian+%F0%9F%91%8B;Computer+Science+Student;Java+%7C+Flutter+%7C+Spring+Boot+%7C+PostgreSQL)](https://git.io/typing-svg)
-
-<img height="150em" src="https://raw.githubusercontent.com/pizofreude/pizofreude/master/java.gif"/>
+<img height="150em" src="https://user-images.githubusercontent.com/59374587/153518639-7a26f075-9621-4c47-bae8-e46c957d09a7.png"/>
 
 </div>
 
@@ -59,7 +58,7 @@ My goal is to understand how data travels through the full application stack —
 ## 🚀 Featured Project
 
 ### [busTrackerPA](https://github.com/Rian144hz/busTrackerPA)
-> A real-world app that tracks bus routes in Paulo Afonso.  
+> A real-world app that tracks bus routes in Paulo Afonso.  
 > Built to understand how data travels through the full stack — from the mobile client to the API and into the database.
 
 `Flutter` `Spring Boot` `PostgreSQL`
@@ -69,8 +68,8 @@ My goal is to understand how data travels through the full application stack —
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Rian144hz&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="170" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Rian144hz&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" height="170" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Rian144hz&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="170" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Rian144hz&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" height="170" />
 </div>
 
 ---
@@ -96,3 +95,7 @@ My goal is to understand how data travels through the full application stack —
 <a href="https://www.linkedin.com/in/matheus-souza7" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" /></a>
 <a href="https://www.instagram.com/rian144hz" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" alt="Instagram" /></a>
 </p>
+
+
+
+queria por um mascote java no lugar do flutter
