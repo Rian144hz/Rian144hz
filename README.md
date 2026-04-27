@@ -2,9 +2,9 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=378ADD&center=true&vCenter=true&width=500&lines=Hi+there%2C+I'm+Matheus+Rian+%F0%9F%91%8B;Computer+Science+Student;Java+%7C+Flutter+%7C+Spring+Boot+%7C+PostgreSQL)](https://git.io/typing-svg)
 
-<img height="150em" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Duke_%28Java_mascot%29_waving.svg/800px-Duke_%28Java_mascot%29_waving.svg.png"/>
-
 </div>
+
+<img align="right" height="150em" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Duke_%28Java_mascot%29_waving.svg/800px-Duke_%28Java_mascot%29_waving.svg.png"/>
 
 ---
 
