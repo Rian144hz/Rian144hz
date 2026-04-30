@@ -1,7 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=378ADD&center=true&vCenter=true&width=500&lines=Hi+there%2C+I'm+Matheus+Rian+%F0%9F%91%8B;Computer+Science+Student;Java+%7C+Flutter+%7C+Spring+Boot+%7C+PostgreSQL)](https://git.io/typing-svg)
-<img height="150em" src="https://user-images.githubusercontent.com/59374587/153518639-7a26f075-9621-4c47-bae8-e46c957d09a7.png"/>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=378ADD&center=true&vCenter=true&width=500&lines=Hi+there%2C+I'm+Matheus+Rian+%F0%9F%91%8B;Computer+Science+Student;Java+%7C+Spring+Boot+%7C+PostgreSQL)](https://git.io/typing-svg)
 
 </div>
 
@@ -10,9 +9,7 @@
 <div align="center">
 
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=flat&logo=dart&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-%236DB33F.svg?style=flat&logo=spring-boot&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=flutter&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=flat&logo=postgresql&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
@@ -33,7 +30,6 @@ My goal is to understand how data travels through the full application stack —
 | Icon | Area | Stack |
 |---|---|---|
 | ⚙️ | **Backend** | Java & Spring Boot — building REST APIs |
-| 📱 | **Mobile** | Flutter — crafting cross-platform interfaces |
 | 🗄️ | **Database** | PostgreSQL — data persistence & modeling |
 | 🖥️ | **System** | Linux (Ubuntu) — daily driver environment |
 
@@ -45,7 +41,7 @@ My goal is to understand how data travels through the full application stack —
 [![Skills](https://skillicons.dev/icons?i=java,dart)](https://skillicons.dev)
 
 **Frameworks**
-[![Skills](https://skillicons.dev/icons?i=spring,flutter)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=spring)](https://skillicons.dev)
 
 **Database**
 [![Skills](https://skillicons.dev/icons?i=postgres)](https://skillicons.dev)
