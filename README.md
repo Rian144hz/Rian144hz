@@ -37,8 +37,8 @@ My goal is to understand how data travels through the full application stack —
 
 ## 🛠️ Tech Stack
 
-**Languages**
-[![Skills](https://skillicons.dev/icons?i=java)](https://skillicons.dev)
+**Languages & Cloud**
+[![Skills](https://skillicons.dev/icons?i=java,aws,docker,linux)](https://skillicons.dev)
 
 **Frameworks**
 [![Skills](https://skillicons.dev/icons?i=spring)](https://skillicons.dev)
