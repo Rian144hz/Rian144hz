@@ -21,7 +21,7 @@
 
 Computer Science student at **IFBA Campus Paulo Afonso**, based in Glória, Bahia, Brazil.
 
-My goal is to understand how data travels through the full application stack — from mobile UI all the way to the database — building real solutions like **[busTrackerPA](https://github.com/Rian144hz/busTrackerPA)**.
+My goal is to build scalable backend systems and understand how to orchestrate them in the cloud. I'm currently diving deep into Java/Spring Boot while exploring Cloud Computing (AWS) and DevOps practices to ensure high availability and performance.
 
 ---
 
