@@ -38,7 +38,7 @@ My goal is to build scalable backend systems and understand how to orchestrate t
 ## 🛠️ Tech Stack
 
 **Languages & Cloud**
-[![Skills](https://skillicons.dev/icons?i=java,aws,docker,linux)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=java,csharp,aws,docker,linux)](https://skillicons.dev)
 
 **Frameworks**
 [![Skills](https://skillicons.dev/icons?i=spring)](https://skillicons.dev)
