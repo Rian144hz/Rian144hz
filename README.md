@@ -92,6 +92,3 @@ My goal is to build scalable backend systems and understand how to orchestrate t
 <a href="https://www.instagram.com/rian144hz" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" alt="Instagram" /></a>
 </p>
 
-
-
-queria por um mascote java no lugar do flutter
