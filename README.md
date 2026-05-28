@@ -29,7 +29,7 @@ My goal is to build scalable backend systems and understand how to orchestrate t
 
 | Icon | Area | Stack |
 |---|---|---|
-| ⚙️ | **Backend** | Java & Spring Boot — building REST APIs |
+| ⚙️ | **Backend** | Java,Kotlin & Spring Boot — building REST APIs |
 | 🗄️ | **Database** | PostgreSQL — data persistence & modeling |
 | 🖥️ | **System** | Linux (Ubuntu) — daily driver environment |
 
