@@ -8,7 +8,7 @@
 
 <div align="center">
 
-[![Skills](https://skillicons.dev/icons?i=java,kotlin,julia,spring,postgres)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=java,kotlin,julia,phyton,c++)](https://skillicons.dev)
 
 </div>
 
